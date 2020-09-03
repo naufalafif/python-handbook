@@ -8,6 +8,7 @@ verify_ssl = true
 [packages]
 toolz = "*"
 jupyterlab = "*"
+nb-black = "*"
 
 [requires]
 python_version = "3.8"
