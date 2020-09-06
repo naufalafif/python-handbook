@@ -9,6 +9,7 @@ verify_ssl = true
 toolz = "*"
 jupyterlab = "*"
 nb-black = "*"
+memory-profiler = "*"
 
 [requires]
 python_version = "3.8"
